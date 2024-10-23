@@ -1,0 +1,1 @@
+let saluto = document.getElementById("saluto")
